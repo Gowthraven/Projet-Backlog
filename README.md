@@ -21,9 +21,9 @@ La nature du projet est de réaliser un simulateur de courses de voilier, pour p
 
 On peut découper cet objectif en plusieurs projet:
 
--Le simulateur lui même (coté utilisateur)
--L'organisateur de courses (coté manageur) 
--Constitution dynamique d’un modèle de performance de voilier par apprentissage
+- Le simulateur lui même (coté utilisateur)
+- L'organisateur de courses (coté manageur) 
+- Constitution dynamique d’un modèle de performance de voilier par apprentissage
 
 #### Contexte du projet
 
