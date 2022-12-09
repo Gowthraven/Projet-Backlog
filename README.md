@@ -58,10 +58,11 @@ Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](
 ### Rôles
 L'essentiel du projet sera réalisé avec une approche itérative par ordre de priorité.
 Nous travaillerons essentiellement en groupe et définirons au début de la réalisation du projet des responsables pour chaque livrable du développement.
-- Responsable projet: Anaïs Bains
-- Responsable POA: Morgan Lantrade
-- Responsable AGP: Enguerran Couderc-Lafont
-- Responsable APP: Justin Appel
+- Responsable projet : Anaïs Bains
+- Responsable Livrables Organisation : Anaïs Bains 
+- Responsable POA : Morgan Lantrade
+- Responsable AGP : Enguerran Couderc-Lafont
+- Responsable APP : Justin Appel
 
 ### Communication
 **Client-Fournisseur :**
@@ -77,9 +78,10 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 |**Livrables organisation projet**|**Livrables développement projet**|
 |--------|--------|
 |   Présentation Kick-off meeting + Compte rendu (13 Janvier)   |   Processus outillé de génération de modèle de performance (**POA**)    |
-|   Compte rendu réunion plan V1 (17 Février) | Application de génération de polaire (**AGP**)|
-|Compte rendu réunion plan V2 (17 Mars) |    Application de prédiction de performance (**APP**)    |
-|Compte rendu réunion plan V3 (14 Avril)   |
+|  Plan V1 (17 Février) | Application de génération de polaire (**AGP**)|
+|Plan V2 (17 Mars) |    Application de prédiction de performance (**APP**)    |
+|Plan V3 (14 Avril)   |
+|Soutenance ( Avril) | 
 
 ### Macro-planning organisation projet : 
 
@@ -93,9 +95,9 @@ title MACRO-PLANNING ORGANISATION PROJET
 section Organisation projet
 Prise de connaissance du projet            :done,    des1, 2022-11-20,18d
 Kick-of meeting               :active,  des2, 2022-11-30,9d
-Projet V1               	:         des3, 2023-01-01,2023-02-17
-Projet V2                :        des4, 2023-02-17,2023-03-17
-Projet V3                 :        des5, 2023-03-17,2023-04-14
+Plan V1               	:         des3, 2023-01-01,2023-02-17
+Plan V2                :        des4, 2023-02-17,2023-03-17
+Plan V3                 :        des5, 2023-03-17,2023-04-14
 Soutenance projet                :        after des5,2023-05-01
 Rendu projet                :        after des5,2023-05-01
 
