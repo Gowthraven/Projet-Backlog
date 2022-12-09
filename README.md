@@ -53,15 +53,15 @@ De fournir un applicatif permettant à l’utilisateur d’exploiter le modèle 
 ![Trombinoscope](https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/projet2.png)
 Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](https://docs.google.com/spreadsheets/d/16Uc-_3CkTmRhTnL7Bv5lchy09DF-uITX/edit?usp=sharing&ouid=103043773177032282236&rtpof=true&sd=true)
 
-## Livrables du projet
+## Organisation du projet
+
+### Livrables du projet
 |**Livrables organisation projet**|**Livrables développement projet**|
 |--------|--------|
 |   Présentation Kick-off meeting + Compte rendu (13 Janvier)   |   Processus outillé de génération de modèle de performance (**POA**)    |
 |   Compte rendu réunion plan V1 (17 Février) | Application de génération de polaire (**AGP**)|
 |Compte rendu réunion plan V2 (17 Mars) |    Application de prédiction de performance (**APP**)    |
 |Compte rendu réunion plan V3 (14 Avril)   |
-
-## Organisation du projet
 
 ### Rôles
 L'essentiel du projet sera réalisé avec une approche itérative par ordre de priorité.
