@@ -1,3 +1,4 @@
+
 # Projet : Constitution dynamique d’un modèle de performance de voilier par apprentissage
 **-Client :** M. GiIles LEPINARD
 
@@ -87,18 +88,42 @@ Ceci est l'organisation du projet
 - numpy  
 - à définir...
 
-#### Processus outillé de génération de modèle de performance (POA)
+### Processus outillé de génération de modèle de performance (POA)
 Responsable: Morgan Lantrade
 
-Activités:...
+##### Activités principales:
+- [ ]  Conversion d'enregistrements NMEA en fichier csv avec caractérisation.
+- [ ]  Création d'un modèle de performance basique 
+- [ ] Création visuel (dynamique?) pour analyse des données
+- [ ]   Création d'un modèle de performance par apprentissage
+
+##### Contraintes:
+
 ####  Application de  génération de polaire  (AGP)
 Responsable: Enguerran Couderc-Laffont
 
-Activités:...
+##### Activités principales:
+- [ ]  Création d'un fichier polaire à partir d'un modèle de performance (.pol) à partir d'un script python.
+- [ ]  Création d'un outil d'analyse de polaire.
+
+##### Activités secondaires:
+- [ ]  Création d'une interface
+
+
+##### Contraintes:
+
 ####  Application de prédiction de performance (APP)
 Responsable: Justin Appel
 
-Activités:...
+##### Activités principales:
+- [ ]  Création d'un prédicteur de performance.
+- [ ]  Création d'un outil d'analyse de performances.
+
+##### Activités secondaires:
+- [ ]  Création d'une interface 
+##### Contraintes:
+
+
 ### Processus du projet
 <img src="https://github.com/Gowthraven/Projet-Backlog/raw/main/assets_readme/dev.png" alt="drawing" width="1200"/>
 
