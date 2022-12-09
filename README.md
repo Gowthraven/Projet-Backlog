@@ -62,7 +62,7 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 - Responsable AGP : Enguerran Couderc-Lafont
 - Responsable APP : Justin Appel
 - Responsable Livrables Organisation : Anaïs Bains
-**- Responsable projet : Anaïs Bains**
+- **Responsable projet** : Anaïs Bains
  
  Courriel: Adresse@gmail.com
 
