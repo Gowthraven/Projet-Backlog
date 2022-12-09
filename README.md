@@ -14,7 +14,14 @@ Courriel: gilles.lepinard@master-developpement-logiciel.fr
 
 ## Description et objectifs du projet
 #### Contexte général
-Ceci un est un contexte général
+
+Aujourd'huit la simulation est un outil essentiel à la réalisation de nombreux projets d'ingénieurie de par son faible cout d'utilisation par rapport a des test grandeur nature. C'est pourquoi l'utiliser sur les courses de bateaux semble interessant, néanmoins sa conception n'est pas chose aisé et necessite plusieurs disciplines. 
+La nature du projet est de réaliser un simulateur de courses de voilier, pour pouvoir à terme atteindre une automatisation complète de conduite d'un voilier (un drone) pour participer au MicroTransat Challenge. 
+On peut découper cet objectif en plusieurs projet:
+-Le simulateur lui même (coté utilisateur)
+-L'organisateur de courses (coté manageur) 
+-Constitution dynamique d’un modèle de performance de voilier par apprentissage
+
 #### Contexte du projet
 
 La « polaire » est le modèle comportemental couramment utilisé en course et en croisière pour prévoir la
