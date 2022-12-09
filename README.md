@@ -158,7 +158,9 @@ Responsable: Justin Appel
 |  **Langage**  | Python    |Python|C ou C#|
 |  **Environnement**  |Windows et Linux 64    |Windows et Linux 64|Windows et Linux 64|
 |  **Fichiers**  |   readme,config    |readme,config |readme,config |
- 
+
+Pour débuter nous commencerons le projet avec l'outil **Jupyter Notebook**, qui permet de suivre de façon intéractive l'enchainement des taches de façon intéractives
+
 ##### Bibliothèques
 - sklearn
 - seaborn 
