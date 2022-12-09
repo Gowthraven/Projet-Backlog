@@ -16,9 +16,28 @@ Courriel: gilles.lepinard@master-developpement-logiciel.fr
 #### Contexte général
 Ceci un est un contexte général
 #### Contexte du projet
-Ceci est un contexte
+
+La « polaire » est le modèle comportemental couramment utilisé en course et en croisière pour prévoir la
+vitesse d’un voilier. Il s’agit d’un simple tableau à deux entrées (la vitesse du vent vrai TWS et l’angle du
+vent vrai TWS par rapport à l’axe du voilier) et à une sortie (la vitesse du voilier par rapport à l’eau STW).
+La polaire est issue des calculs d’architecture navale mais est souvent bien éloignée des performances
+réelles
+L’électronique embarqué au sein des voiliers permet en temps réel de mesurer les données des capteurs et
+de les historiser.
+A partir de ces données historisées et contextualisées il doit être possible de constituer un modèle de
+performance par apprentissage. Le modèle ainsi obtenu serait alors directement utilisable pour les
+prédictions ou pour générer les polaires du voilier.
+
 #### Objectifs du projet
-Ceci est une description
+
+L’objectif du projet est
+De mettre en place un processus outillé automatisé permettant à l’utilisateur de constituer par apprentissage
+un modèle de performance à partir de fichiers d’enregistrements de trames caractérisés.
+De fournir un applicatif permettant à l’utilisateur d’exploiter le modèle applicatif résultant afin de
+
+o Comparer les performances réelles au performances prévues.
+o Produire des polaires
+
 ![Trombinoscope](https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/projet2.png)
 Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](https://docs.google.com/spreadsheets/d/16Uc-_3CkTmRhTnL7Bv5lchy09DF-uITX/edit?usp=sharing&ouid=103043773177032282236&rtpof=true&sd=true)
 
