@@ -168,7 +168,7 @@ Responsable: Justin Appel
 | |**Processus outillé de génération de modèle de performance (POA)**|**Application de  génération de polaire  (AGP)**|**Application de prédiction de performance (APP)**|
 |:--------:|:-----------|:-------------|:-----------|
 |  **Langage**  | Python    |Python|C ou C#|
-|  **Environnement**  |Windows et Linux 64    |Windows et Linux 64|Windows et Linux 64|
+|  **Environnement**  |Windows et Linux 64 bits   |Windows et Linux 64 bits |Windows et Linux 64 bits|
 |  **Fichiers**  |   readme,config    |readme,config |readme,config |
 
 Pour débuter nous commencerons le projet avec l'outil **Jupyter Notebook**, qui permet de suivre de façon intéractive l'enchainement des taches de façon intéractive.
