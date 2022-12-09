@@ -70,9 +70,7 @@ AGP    :2023-01-20,2023-05-01
 
 
 ## Développement du projet
-Ceci est l'organisation du projet
-
-
+Nous mettrons en priorité la réalisation d'un modèle de performance basique ( sans apprentissage) pour pouvoir débuter en parallèle les applications de génération de polaire et de prédictions.
 ### Processus outillé de génération de modèle de performance (POA)
 Responsable: Morgan Lantrade
 
@@ -160,3 +158,4 @@ section APP
 APP      :2023-01-20,2023-05-01
 AGP    :2023-01-20,2023-05-01
 ```
+
