@@ -115,9 +115,9 @@ POA V3               :2023-03-17,2023-04-14
 APP V3     :2023-03-17,2023-04-14
 AGP V3   :2023-03-17,2023-04-14
 ```
-- Livrabres V1 : Version basique en jupyter notebook et scripts python, sans interface
-- Livrabres V2 :
-- Livrabres V3 :
+- Livrables V1 : Version basique en jupyter notebook et scripts python, sans interface
+- Livrables V2 : Version intermédiaire avec interface basique
+- Livrables V3 : Version avancée avec interface fonctionnelle
 
 
 ## Développement du projet
