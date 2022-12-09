@@ -27,7 +27,7 @@ On peut découper cet objectif en plusieurs projets:
 
 #### Contexte du projet
 
-La « polaire » est le modèle comportemental couramment utilisé en course et en croisière pour prévoir la
+La « polaire » est le modèle comportemental couramment utilisé en navigation et en croisière pour prévoir la
 vitesse d’un voilier. Il s’agit d’un simple tableau à deux entrées (la vitesse du vent vrai TWS et l’angle du
 vent vrai TWS par rapport à l’axe du voilier) et à une sortie (la vitesse du voilier par rapport à l’eau STW).
 
