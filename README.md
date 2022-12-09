@@ -13,9 +13,11 @@ Courriel: gilles.lepinard@master-developpement-logiciel.fr
 
 
 ## Description et objectifs du projet
-#### Contexte
+#### Contexte général
+Ceci un est un contexte général
+#### Contexte du projet
 Ceci est un contexte
-#### Objectifs
+#### Objectifs du projet
 Ceci est une description
 ![Trombinoscope](https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/projet2.png)
 Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](https://docs.google.com/spreadsheets/d/16Uc-_3CkTmRhTnL7Bv5lchy09DF-uITX/edit?usp=sharing&ouid=103043773177032282236&rtpof=true&sd=true)
@@ -162,5 +164,4 @@ section APP
 task      :2023-01-20,2023-05-01
 task    :2023-01-20,2023-05-01
 ```
-
 
