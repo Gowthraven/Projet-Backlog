@@ -15,7 +15,7 @@ Courriel: gilles.lepinard@master-developpement-logiciel.fr
 ## Description et objectifs du projet
 #### Contexte général
 
-Aujourd'hui, la simulation est un outil essentiel à la réalisation de nombreux projets d'ingénierie de par son faible coût d'utilisation par rapport à des essais grandeur nature. C'est pourquoi l'utiliser sur des courses de voiliers semble intéressant, néanmoins sa conception n'est pas chose aisé et nécessite plusieurs disciplines. 
+Aujourd'hui, la simulation est un outil essentiel à la réalisation de nombreux projets d'ingénierie de par son faible coût d'utilisation par rapport à des essais grandeur nature. C'est pourquoi l'utiliser sur des courses de voiliers semble intéressant, néanmoins sa conception n'est pas chose aisée et nécessite plusieurs disciplines. 
 
 La nature du projet est de réaliser un simulateur de courses de voiliers, pour pouvoir à terme atteindre une automatisation complète de conduite d'un voilier (avec un drone) pour participer au **MicroTransat Challenge**. 
 
