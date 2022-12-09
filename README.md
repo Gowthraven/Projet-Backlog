@@ -92,7 +92,6 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-
 title MACRO-PLANNING ORGANISATION PROJET
 
 section Organisation projet
