@@ -43,7 +43,7 @@ prédictions ou pour générer les polaires du voilier.
 #### Objectifs du projet
 
 L’objectif du projet est
-De mettre en place un processus outillé automatisé permettant à l’utilisateur de constituer par apprentissage
+de mettre en place un processus outillé automatisé permettant à l’utilisateur de constituer par apprentissage
 un modèle de performance à partir de fichiers d’enregistrements de trames caractérisés.
 De fournir un applicatif permettant à l’utilisateur d’exploiter le modèle applicatif résultant afin de
 
@@ -161,7 +161,9 @@ Responsable: Justin Appel
 |  **Environnement**  |Windows et Linux 64    |Windows et Linux 64|Windows et Linux 64|
 |  **Fichiers**  |   readme,config    |readme,config |readme,config |
 
-Pour débuter nous commencerons le projet avec l'outil **Jupyter Notebook**, qui permet de suivre de façon intéractive l'enchainement des taches de façon intéractives
+Pour débuter nous commencerons le projet avec l'outil **Jupyter Notebook**, qui permet de suivre de façon intéractive l'enchainement des taches de façon intéractive.
+
+Nous déciderons (avec l'accord du client) ensuite, du choix d'outil/framework qui semble le plus adapté.
 
 ##### Bibliothèques
 - sklearn
