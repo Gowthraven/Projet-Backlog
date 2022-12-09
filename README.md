@@ -15,13 +15,13 @@ Courriel: gilles.lepinard@master-developpement-logiciel.fr
 ## Description et objectifs du projet
 #### Contexte général
 
-Aujourd'hui, la simulation est un outil essentiel à la réalisation de nombreux projets d'ingénieries de par son faible coût d'utilisation par rapport à des essais grandeur nature. C'est pourquoi l'utiliser sur des courses de voiliers semble intéressant, néanmoins sa conception n'est pas chose aisé et nécessite plusieurs disciplines. 
+Aujourd'hui, la simulation est un outil essentiel à la réalisation de nombreux projets d'ingénierie de par son faible coût d'utilisation par rapport à des essais grandeur nature. C'est pourquoi l'utiliser sur des courses de voiliers semble intéressant, néanmoins sa conception n'est pas chose aisé et nécessite plusieurs disciplines. 
 
-La nature du projet est de réaliser un simulateur de courses de voiliers, pour pouvoir à terme atteindre une automatisation complète de conduite d'un voilier (un drone) pour participer au **MicroTransat Challenge**. 
+La nature du projet est de réaliser un simulateur de courses de voiliers, pour pouvoir à terme atteindre une automatisation complète de conduite d'un voilier (avec un drone) pour participer au **MicroTransat Challenge**. 
 
 On peut découper cet objectif en plusieurs projets:
 
-- Le simulateur lui même (coté utilisateur)
+- Le simulateur (coté utilisateur)
 - L'organisateur de courses (coté manageur) 
 - Constitution dynamique d’un modèle de performance de voilier par apprentissage
 
@@ -30,12 +30,10 @@ On peut découper cet objectif en plusieurs projets:
 La « polaire » est le modèle comportemental couramment utilisé en course et en croisière pour prévoir la
 vitesse d’un voilier. Il s’agit d’un simple tableau à deux entrées (la vitesse du vent vrai TWS et l’angle du
 vent vrai TWS par rapport à l’axe du voilier) et à une sortie (la vitesse du voilier par rapport à l’eau STW).
-
 La polaire est issue des calculs d’architecture navale mais est souvent bien éloignée des performances
-réelles.
+réelles
 L’électronique embarqué au sein des voiliers permet en temps réel de mesurer les données des capteurs et
 de les historiser.
-
 A partir de ces données historisées et contextualisées il doit être possible de constituer un modèle de
 performance par apprentissage. Le modèle ainsi obtenu serait alors directement utilisable pour les
 prédictions ou pour générer les polaires du voilier.
@@ -48,7 +46,7 @@ un modèle de performance à partir de fichiers d’enregistrements de trames ca
 De fournir un applicatif permettant à l’utilisateur d’exploiter le modèle applicatif résultant afin de
 
 - Comparer les performances réelles au performances prévues.
-- Produire des polaires
+- Produire des polaires.
 
 ![Trombinoscope](https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/projet2.png)
 Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](https://docs.google.com/spreadsheets/d/16Uc-_3CkTmRhTnL7Bv5lchy09DF-uITX/edit?usp=sharing&ouid=103043773177032282236&rtpof=true&sd=true)
@@ -56,10 +54,10 @@ Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](
 ## Livrables du projet
 |**Livrables organisation projet**|**Livrables développement projet**|
 |--------|--------|
-|   Présentation Kick-off meeting + Compte rendu (13 Janvier)  |   Processus outillé de génération de modèle de performance (**POA**)    |
-|   Compte rendu réunion plan V1 (17 Février)| Application de génération de polaire (**AGP**)|
-|Compte rendu réunion plan V2(17 Mars)|    Application de prédiction de performance (**APP**)    |
-|Compte rendu réunion plan V3(14 Avril)  |
+|   Présentation Kick-off meeting + Compte rendu   |   Processus outillé de génération de modèle de performance (**POA**)    |
+|   Compte rendu réunion plan V1 | Application de génération de polaire (**AGP**)|
+|Compte rendu réunion plan V2|    Application de prédiction de performance (**APP**)    |
+|Compte rendu réunion plan V3  |
 
 ## Organisation du projet
 
@@ -107,15 +105,15 @@ AGP    :2023-01-20,2023-05-01
 
 
 ## Développement du projet
-Nous mettrons en priorité la réalisation d'un modèle de performance basique ( sans apprentissage) pour pouvoir débuter en parallèle les applications de génération de polaire et de prédictions.
+Nous mettrons en priorité la réalisation d'un modèle de performance basique (sans apprentissage) pour pouvoir débuter en parallèle les applications de génération de polaires et de prédictions.
 ### Processus outillé de génération de modèle de performance (POA)
 Responsable: Morgan Lantrade
 
 ##### Activités principales:
 - [ ]  Conversion d'enregistrements NMEA en fichier csv avec caractérisation.
 - [ ]  Création d'un modèle de performance basique .
-- [ ] Création visuel (dynamique?) pour analyse des données.
-- [ ]   Création d'un modèle de performance par apprentissage.
+- [ ]  Création visuel (dynamique?) pour analyse des données.
+- [ ]  Création d'un modèle de performance par apprentissage.
 
 ##### Contraintes:
 - Pouvoir choisir/ajouter un langage de l'interface : Français, Anglais,..
