@@ -171,6 +171,7 @@ Responsable: Justin Appel
 |  **Environnement**  |Windows et Linux 64 bits   |Windows et Linux 64 bits |Windows et Linux 64 bits|
 |  **Fichiers**  |   readme,config    |readme,config |readme,config |
 
+##### Choix technologiques
 Pour débuter nous commencerons le projet avec l'outil **Jupyter Notebook**, qui permet de suivre de façon intéractive l'enchainement des taches de façon intéractive.
 
 Nous déciderons (avec l'accord du client) ensuite, du choix d'outil/framework qui semble le plus adapté.
