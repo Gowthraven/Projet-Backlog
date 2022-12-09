@@ -29,10 +29,10 @@ Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](
 ### Rôles
 L'essentiel du projet sera réalisé avec une approche itérative par ordre de priorité.
 Nous travaillerons essentiellement en groupe et définirons au début de la réalisation du projet des responsables pour chaque livrable du développement.
-- Responsable projet: à définir...
-- Responsable POA: à définir...
-- Responsable AGP: à définir...
-- Responsable APP: à définir...
+- Responsable projet: Anaïs Bains
+- Responsable POA: Morgan Lantrade
+- Responsable AGP: Enguerran Couderc-Lafont
+- Responsable APP: Justin Appel
 
 ### Communication
 **Client-Fournisseur :**
@@ -88,13 +88,16 @@ Ceci est l'organisation du projet
 - à définir...
 
 #### Processus outillé de génération de modèle de performance (POA)
-Responsable: à définir
+Responsable: Morgan Lantrade
+
 Activités:...
 ####  Application de  génération de polaire  (AGP)
-Responsable: à définir
+Responsable: Enguerran Couderc-Laffont
+
 Activités:...
 ####  Application de prédiction de performance (APP)
-Responsable: à définir
+Responsable: Justin Appel
+
 Activités:...
 ### Processus du projet
 <img src="https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/dev2.png" alt="drawing" width="1200"/>
