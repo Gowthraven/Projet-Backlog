@@ -125,7 +125,7 @@ Responsable: Morgan Lantrade
 Responsable: Enguerran Couderc-Lafont
 
 ##### Activités principales:
-- [ ]  Création d'un fichier polaire à partir d'un modèle de performance (.pol) à partir d'un script python.
+- [ ]  Création d'un fichier polaire à partir d'un modèle de performance (.pol).
 - [ ]  Création d'un outil d'analyse de polaire.
 
 ##### Activités secondaires:
