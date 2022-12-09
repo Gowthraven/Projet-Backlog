@@ -69,11 +69,12 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 ### Communication
 **Client-Fournisseur :**
 - Discord : Pour les questions, retours et prise de décisions
-- Github: Pour le suivi du projet, et les livrables
+- Github : Pour le suivi du projet, et les livrables
 - Physique : Lors des réunions
+- Mail : Communication formelle
 
 **Equipe:**
-- Discord
+- Discord (un serveur propre à l"équipe)
 - Physique 
 
 ### Livrables du projet
