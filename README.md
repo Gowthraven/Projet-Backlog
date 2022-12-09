@@ -35,8 +35,8 @@ De mettre en place un processus outillé automatisé permettant à l’utilisate
 un modèle de performance à partir de fichiers d’enregistrements de trames caractérisés.
 De fournir un applicatif permettant à l’utilisateur d’exploiter le modèle applicatif résultant afin de
 
-o Comparer les performances réelles au performances prévues.
-o Produire des polaires
+- Comparer les performances réelles au performances prévues.
+- Produire des polaires
 
 ![Trombinoscope](https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/projet2.png)
 Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](https://docs.google.com/spreadsheets/d/16Uc-_3CkTmRhTnL7Bv5lchy09DF-uITX/edit?usp=sharing&ouid=103043773177032282236&rtpof=true&sd=true)
