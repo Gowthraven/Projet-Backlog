@@ -80,7 +80,7 @@ Ceci est l'organisation du projet
 |  **Fichiers**  |   readme,config    |readme,config |readme,config |
  
 ##### Bibliothèques
-- sklean
+- sklearn
 - seaborn 
 - matplotlib 
 - pandas 
