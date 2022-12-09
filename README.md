@@ -76,14 +76,14 @@ Responsable: Morgan Lantrade
 
 ##### Activités principales:
 - [ ]  Conversion d'enregistrements NMEA en fichier csv avec caractérisation.
-- [ ]  Création d'un modèle de performance basique 
-- [ ] Création visuel (dynamique?) pour analyse des données
-- [ ]   Création d'un modèle de performance par apprentissage
+- [ ]  Création d'un modèle de performance basique .
+- [ ] Création visuel (dynamique?) pour analyse des données.
+- [ ]   Création d'un modèle de performance par apprentissage.
 
 ##### Contraintes:
 - Pouvoir choisir/ajouter un langage de l'interface : Français, Anglais,..
-- Windows, Linux 64 bits et logiciels open source
-- Visualiser les paramètres d'entrées disponibles et pouvoir indiquer ceux qui sont exploités ( voir  L0 Backlog)
+- Windows, Linux 64 bits et logiciels open source.
+- Visualiser les paramètres d'entrées disponibles et pouvoir indiquer ceux qui sont exploités ( voir  L0 Backlog).
 ####  Application de  génération de polaire  (AGP)
 Responsable: Enguerran Couderc-Laffont
 
@@ -92,7 +92,7 @@ Responsable: Enguerran Couderc-Laffont
 - [ ]  Création d'un outil d'analyse de polaire.
 
 ##### Activités secondaires:
-- [ ]  Création d'une interface
+- [ ]  Création d'une interface.
 
 ##### Contraintes:
 - Pouvoir choisir/ajouter un langage de l'interface : Français, Anglais,..
@@ -132,7 +132,7 @@ Responsable: Justin Appel
 <img src="https://github.com/Gowthraven/Projet-Backlog/raw/main/assets_readme/dev.png" alt="drawing" width="1200"/>
 
 ### Macro-planning développement projet : 
-
+A finir...
 
 ```mermaid
 gantt
@@ -147,15 +147,16 @@ AGP    :2023-01-20,2023-05-01
 
 section POA
 Création MP basique               :2023-01-01,2023-01-20
-APP      :2023-01-20,20d
-AGP    :2023-01-20,40d
+task      :2023-01-20,20d
+task    :2023-01-20,40d
 
 section AGP
-APP      :2023-01-20,2023-05-01
-AGP    :2023-01-20,2023-05-01
+task     :2023-01-20,2023-05-01
+task    :2023-01-20,2023-05-01
 
 section APP
-APP      :2023-01-20,2023-05-01
-AGP    :2023-01-20,2023-05-01
+task      :2023-01-20,2023-05-01
+task    :2023-01-20,2023-05-01
 ```
+
 
