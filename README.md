@@ -196,9 +196,15 @@ dateFormat  YYYY-MM-DD
 title MACRO-PLANNING DEVELOPPEMENT PROJET
 
 section Developpement projet
-POA               :2023-01-01,2023-05-01
-APP      :2023-01-20,2023-05-01
-AGP    :2023-01-20,2023-05-01
+POA V1               :2023-01-01,2023-02-17
+APP V1     :2023-01-20,2023-02-17
+AGP V1   :2023-01-20,2023-02-17
+POA V2               :2023-02-17,2023-03-17
+APP V2     :2023-02-17,2023-03-17
+AGP V2   :2023-02-17,2023-03-17
+POA V3               :2023-03-17,2023-04-14
+APP V3     :2023-03-17,2023-04-14
+AGP V3   :2023-03-17,2023-04-14
 
 section POA
 Création MP basique               :2023-01-01,2023-01-20
