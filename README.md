@@ -9,7 +9,7 @@ Courriel: gilles.lepinard@master-developpement-logiciel.fr
 
 **-Equipe Dual Boat** 
 
-<img src="https://github.com/Gowthraven/Projet-Backlog/raw/main/assets_readme/DUAL_BOAT.png" alt="drawing" width="500"/>
+<img src="https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/DUAL_BOAT.png" alt="drawing" width="500"/>
 
 
 ## Description et objectifs du projet
@@ -17,7 +17,7 @@ Courriel: gilles.lepinard@master-developpement-logiciel.fr
 Ceci est un contexte
 #### Objectifs
 Ceci est une description
-![Trombinoscope](https://github.com/Gowthraven/Projet-Backlog/raw/main/assets_readme/projet2.png)
+![Trombinoscope](https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/projet2.png)
 Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](https://docs.google.com/spreadsheets/d/16Uc-_3CkTmRhTnL7Bv5lchy09DF-uITX/edit?usp=sharing&ouid=103043773177032282236&rtpof=true&sd=true)
 
 ## Livrables du projet
@@ -133,7 +133,7 @@ Responsable: Justin Appel
 - à définir...
 - 
 ### Processus du projet
-<img src="https://github.com/Gowthraven/Projet-Backlog/raw/main/assets_readme/dev.png" alt="drawing" width="1200"/>
+<img src="https://github.com/Gowthraven/Projet-Dual-Boat/raw/main/assets_readme/dev.png" alt="drawing" width="1200"/>
 
 ### Macro-planning développement projet : 
 A finir...
