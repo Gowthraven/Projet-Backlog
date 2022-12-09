@@ -58,11 +58,13 @@ Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](
 ### Rôles
 L'essentiel du projet sera réalisé avec une approche itérative par ordre de priorité.
 Nous travaillerons essentiellement en groupe et définirons au début de la réalisation du projet des responsables pour chaque livrable du développement.
-- Responsable projet : Anaïs Bains
-- Responsable Livrables Organisation : Anaïs Bains 
 - Responsable POA : Morgan Lantrade
 - Responsable AGP : Enguerran Couderc-Lafont
 - Responsable APP : Justin Appel
+- Responsable Livrables Organisation : Anaïs Bains
+**- Responsable projet : Anaïs Bains**
+ 
+ Courriel: Adresse@gmail.com
 
 ### Communication
 **Client-Fournisseur :**
