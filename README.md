@@ -55,14 +55,6 @@ Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](
 
 ## Organisation du projet
 
-### Livrables du projet
-|**Livrables organisation projet**|**Livrables développement projet**|
-|--------|--------|
-|   Présentation Kick-off meeting + Compte rendu (13 Janvier)   |   Processus outillé de génération de modèle de performance (**POA**)    |
-|   Compte rendu réunion plan V1 (17 Février) | Application de génération de polaire (**AGP**)|
-|Compte rendu réunion plan V2 (17 Mars) |    Application de prédiction de performance (**APP**)    |
-|Compte rendu réunion plan V3 (14 Avril)   |
-
 ### Rôles
 L'essentiel du projet sera réalisé avec une approche itérative par ordre de priorité.
 Nous travaillerons essentiellement en groupe et définirons au début de la réalisation du projet des responsables pour chaque livrable du développement.
@@ -80,6 +72,14 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 **Equipe:**
 - Discord
 - Physique 
+
+### Livrables du projet
+|**Livrables organisation projet**|**Livrables développement projet**|
+|--------|--------|
+|   Présentation Kick-off meeting + Compte rendu (13 Janvier)   |   Processus outillé de génération de modèle de performance (**POA**)    |
+|   Compte rendu réunion plan V1 (17 Février) | Application de génération de polaire (**AGP**)|
+|Compte rendu réunion plan V2 (17 Mars) |    Application de prédiction de performance (**APP**)    |
+|Compte rendu réunion plan V3 (14 Avril)   |
 
 ### Macro-planning organisation projet : 
 
