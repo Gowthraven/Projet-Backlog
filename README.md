@@ -1,7 +1,7 @@
 # Projet : Constitution dynamique d’un modèle de performance de voilier par apprentissage
 **-Client :** M. GiIles LEPINARD 
 
-Enseignant chercheur associé, Responsable projet Th	ales
+Enseignant chercheur associé, Responsable projet Thales
 
 Courriel: gilles.lepinard@master-developpement-logiciel.fr
 
