@@ -30,10 +30,12 @@ On peut découper cet objectif en plusieurs projets:
 La « polaire » est le modèle comportemental couramment utilisé en course et en croisière pour prévoir la
 vitesse d’un voilier. Il s’agit d’un simple tableau à deux entrées (la vitesse du vent vrai TWS et l’angle du
 vent vrai TWS par rapport à l’axe du voilier) et à une sortie (la vitesse du voilier par rapport à l’eau STW).
+
 La polaire est issue des calculs d’architecture navale mais est souvent bien éloignée des performances
 réelles
 L’électronique embarqué au sein des voiliers permet en temps réel de mesurer les données des capteurs et
 de les historiser.
+
 A partir de ces données historisées et contextualisées il doit être possible de constituer un modèle de
 performance par apprentissage. Le modèle ainsi obtenu serait alors directement utilisable pour les
 prédictions ou pour générer les polaires du voilier.
@@ -54,10 +56,10 @@ Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](
 ## Livrables du projet
 |**Livrables organisation projet**|**Livrables développement projet**|
 |--------|--------|
-|   Présentation Kick-off meeting + Compte rendu   |   Processus outillé de génération de modèle de performance (**POA**)    |
-|   Compte rendu réunion plan V1 | Application de génération de polaire (**AGP**)|
-|Compte rendu réunion plan V2|    Application de prédiction de performance (**APP**)    |
-|Compte rendu réunion plan V3  |
+|   Présentation Kick-off meeting + Compte rendu (13 Janvier)   |   Processus outillé de génération de modèle de performance (**POA**)    |
+|   Compte rendu réunion plan V1 (17 Février) | Application de génération de polaire (**AGP**)|
+|Compte rendu réunion plan V2 (17 Mars) |    Application de prédiction de performance (**APP**)    |
+|Compte rendu réunion plan V3 (14 Avril)   |
 
 ## Organisation du projet
 
