@@ -85,7 +85,7 @@ Responsable: Morgan Lantrade
 - Windows, Linux 64 bits et logiciels open source.
 - Visualiser les paramètres d'entrées disponibles et pouvoir indiquer ceux qui sont exploités ( voir  L0 Backlog).
 ####  Application de  génération de polaire  (AGP)
-Responsable: Enguerran Couderc-Laffont
+Responsable: Enguerran Couderc-Lafont
 
 ##### Activités principales:
 - [ ]  Création d'un fichier polaire à partir d'un modèle de performance (.pol) à partir d'un script python.
