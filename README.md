@@ -1,4 +1,3 @@
-
 # Projet : Constitution dynamique d’un modèle de performance de voilier par apprentissage
 **-Client :** M. GiIles LEPINARD
 
@@ -73,6 +72,49 @@ AGP    :2023-01-20,2023-05-01
 ## Développement du projet
 Ceci est l'organisation du projet
 
+
+### Processus outillé de génération de modèle de performance (POA)
+Responsable: Morgan Lantrade
+
+##### Activités principales:
+- [ ]  Conversion d'enregistrements NMEA en fichier csv avec caractérisation.
+- [ ]  Création d'un modèle de performance basique 
+- [ ] Création visuel (dynamique?) pour analyse des données
+- [ ]   Création d'un modèle de performance par apprentissage
+
+##### Contraintes:
+- Pouvoir choisir/ajouter un langage de l'interface : Français, Anglais,..
+- Windows, Linux 64 bits et logiciels open source
+- Visualiser les paramètres d'entrées disponibles et pouvoir indiquer ceux qui sont exploités ( voir  L0 Backlog)
+####  Application de  génération de polaire  (AGP)
+Responsable: Enguerran Couderc-Laffont
+
+##### Activités principales:
+- [ ]  Création d'un fichier polaire à partir d'un modèle de performance (.pol) à partir d'un script python.
+- [ ]  Création d'un outil d'analyse de polaire.
+
+##### Activités secondaires:
+- [ ]  Création d'une interface
+
+##### Contraintes:
+- Pouvoir choisir/ajouter un langage de l'interface : Français, Anglais,..
+- Windows, Linux 64 bits et logiciels open source
+- Fonction python
+
+####  Application de prédiction de performance (APP)
+Responsable: Justin Appel
+
+##### Activités principales:
+- [ ]  Création d'un prédicteur de performance.
+- [ ]  Création d'un outil d'analyse de performances.
+
+##### Activités secondaires:
+- [ ]  Création d'une interface 
+##### Contraintes:
+- Pouvoir choisir/ajouter un langage de l'interface : Français, Anglais,..
+- Windows, Linux 64 bits et logiciels open source
+- Fonction C ou C#
+
 #### Outils de développement
 | |**Processus outillé de génération de modèle de performance (POA)**|**Application de  génération de polaire  (AGP)**|**Application de prédiction de performance (APP)**|
 |:--------:|:-----------|:-------------|:-----------|
@@ -87,43 +129,7 @@ Ceci est l'organisation du projet
 - pandas 
 - numpy  
 - à définir...
-
-### Processus outillé de génération de modèle de performance (POA)
-Responsable: Morgan Lantrade
-
-##### Activités principales:
-- [ ]  Conversion d'enregistrements NMEA en fichier csv avec caractérisation.
-- [ ]  Création d'un modèle de performance basique 
-- [ ] Création visuel (dynamique?) pour analyse des données
-- [ ]   Création d'un modèle de performance par apprentissage
-
-##### Contraintes:
-
-####  Application de  génération de polaire  (AGP)
-Responsable: Enguerran Couderc-Laffont
-
-##### Activités principales:
-- [ ]  Création d'un fichier polaire à partir d'un modèle de performance (.pol) à partir d'un script python.
-- [ ]  Création d'un outil d'analyse de polaire.
-
-##### Activités secondaires:
-- [ ]  Création d'une interface
-
-
-##### Contraintes:
-
-####  Application de prédiction de performance (APP)
-Responsable: Justin Appel
-
-##### Activités principales:
-- [ ]  Création d'un prédicteur de performance.
-- [ ]  Création d'un outil d'analyse de performances.
-
-##### Activités secondaires:
-- [ ]  Création d'une interface 
-##### Contraintes:
-
-
+- 
 ### Processus du projet
 <img src="https://github.com/Gowthraven/Projet-Backlog/raw/main/assets_readme/dev.png" alt="drawing" width="1200"/>
 
