@@ -84,7 +84,8 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 |  Plan V1 (17 Février) | Application de génération de polaire (**AGP**)|
 |Plan V2 (17 Mars) |    Application de prédiction de performance (**APP**)    |
 |Plan V3 (14 Avril)   |
-|Soutenance ( Avril) | 
+|Soutenance ( Avril) | |
+|Rendu projet (Avril) |
 
 ### Macro-planning organisation projet : 
 
