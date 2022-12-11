@@ -64,7 +64,7 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 - Responsable Livrables Organisation : Anaïs Bains
 - **Responsable projet** : Anaïs Bains
  
- Courriel: Adresse@gmail.com
+ Courriel: nais.bains@univ-tlse3.fr
 
 ### Communication
 **Client-Fournisseur :**
