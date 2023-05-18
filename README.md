@@ -31,11 +31,7 @@
 
 **-Encadrante :** Mme. Shaoyi YIN (IRIT-Equipe Pyramide)  shaoyi.yin@irit.fr
 
-  
-**-Equipe **
-
-Morgan Lantrade
-Enguerran Couderc-Lafont 
+**-Equipe :** Morgan Lantrade et Enguerran Couderc-Lafont (M1 IAFA)
   
   
 
